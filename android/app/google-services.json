@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337011646532",
+    "project_id": "ftwitter-355bc",
+    "storage_bucket": "ftwitter-355bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337011646532:android:317f1579b498adce079c11",
+        "android_client_info": {
+          "package_name": "com.example.ftwitter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_BFs1g-NVotO0fDaRe5iwP15hgl3eeqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
